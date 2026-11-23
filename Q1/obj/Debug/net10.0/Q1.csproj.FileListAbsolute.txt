@@ -1,0 +1,14 @@
+C:\Users\mahendra.yalagana\OneDrive - Acuvate Software Private Limited\Desktop\C# Practice Q-1\Q1\bin\Debug\net10.0\Q1.exe
+C:\Users\mahendra.yalagana\OneDrive - Acuvate Software Private Limited\Desktop\C# Practice Q-1\Q1\bin\Debug\net10.0\Q1.deps.json
+C:\Users\mahendra.yalagana\OneDrive - Acuvate Software Private Limited\Desktop\C# Practice Q-1\Q1\bin\Debug\net10.0\Q1.runtimeconfig.json
+C:\Users\mahendra.yalagana\OneDrive - Acuvate Software Private Limited\Desktop\C# Practice Q-1\Q1\bin\Debug\net10.0\Q1.dll
+C:\Users\mahendra.yalagana\OneDrive - Acuvate Software Private Limited\Desktop\C# Practice Q-1\Q1\bin\Debug\net10.0\Q1.pdb
+C:\Users\mahendra.yalagana\OneDrive - Acuvate Software Private Limited\Desktop\C# Practice Q-1\Q1\obj\Debug\net10.0\Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahendra.yalagana\OneDrive - Acuvate Software Private Limited\Desktop\C# Practice Q-1\Q1\obj\Debug\net10.0\Q1.AssemblyInfoInputs.cache
+C:\Users\mahendra.yalagana\OneDrive - Acuvate Software Private Limited\Desktop\C# Practice Q-1\Q1\obj\Debug\net10.0\Q1.AssemblyInfo.cs
+C:\Users\mahendra.yalagana\OneDrive - Acuvate Software Private Limited\Desktop\C# Practice Q-1\Q1\obj\Debug\net10.0\Q1.csproj.CoreCompileInputs.cache
+C:\Users\mahendra.yalagana\OneDrive - Acuvate Software Private Limited\Desktop\C# Practice Q-1\Q1\obj\Debug\net10.0\Q1.dll
+C:\Users\mahendra.yalagana\OneDrive - Acuvate Software Private Limited\Desktop\C# Practice Q-1\Q1\obj\Debug\net10.0\refint\Q1.dll
+C:\Users\mahendra.yalagana\OneDrive - Acuvate Software Private Limited\Desktop\C# Practice Q-1\Q1\obj\Debug\net10.0\Q1.pdb
+C:\Users\mahendra.yalagana\OneDrive - Acuvate Software Private Limited\Desktop\C# Practice Q-1\Q1\obj\Debug\net10.0\Q1.genruntimeconfig.cache
+C:\Users\mahendra.yalagana\OneDrive - Acuvate Software Private Limited\Desktop\C# Practice Q-1\Q1\obj\Debug\net10.0\ref\Q1.dll
